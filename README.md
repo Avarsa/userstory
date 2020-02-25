@@ -34,7 +34,9 @@ A simple web application to capture client requirements.
 
 <h5>Usage</h5>
 
-To install all the dependencies and run the flask development server, type in a linux terminal ```source setup.sh```
+To install all the dependencies and run the flask development server, type in a linux terminal :
+
+```source setup.sh```
 
 <h5>Licence</h5>
 <em>MIT</em>
