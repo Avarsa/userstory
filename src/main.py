@@ -11,4 +11,5 @@ def root_handler():
 
 
 if __name__ == "__main__":
-    app.run(host='127.0.0.1', port=8080, debug=True)
+	#setting host to '0.0.0.0' is mandatory to run the app in repl.it
+	app.run(host='0.0.0.0', port=8080, debug=True)
