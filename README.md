@@ -19,13 +19,13 @@ A simple web application to capture client requirements.
   <li>Developer and client feedback on features</li>
 </ul>
 
-<hr>
+
 
 <br>
 
 <h5>Checklist</h5>
 
 
-<hr>
+
 <h5>Licence</h5>
 <em>MIT</em>
