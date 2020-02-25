@@ -7,7 +7,7 @@ A simple web application to capture client requirements.
 
 <br><br>
 <h5>Introduction</h5>
-<em>Capturing user stories to help write specs for testing</em>
+<em>This application intends to help software developers in capturing user stories so that they can write specs for testing</em>
 
 <br><br>
 
