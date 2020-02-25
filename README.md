@@ -9,7 +9,7 @@ A simple web application to capture client requirements.
 <h5>Introduction</h5>
 <em>Capturing user stories to help write specs for testing</em>
 
-<br>
+<br><br>
 
 <h5>Features</h5>
 
@@ -20,6 +20,8 @@ A simple web application to capture client requirements.
 </ul>
 
 <hr>
+
+<br>
 
 <h5>Checklist</h5>
 
