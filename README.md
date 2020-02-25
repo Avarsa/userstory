@@ -24,8 +24,8 @@ A simple web application to capture client requirements.
 <br>
 
 <h5>Checklist</h5>
-
-&#9744 Create view for the client/sales representative
+''
+- [ ] Create view for the client/sales representative
 - [ ] Save data to the database
 - [ ] Create view for the developer
 - [ ] Installable PWA for the client
