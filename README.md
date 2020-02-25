@@ -5,8 +5,11 @@
 <br>
 A simple web application to capture client requirements.
 
+<br><br>
 <h5>Introduction</h5>
 <em>Capturing user stories to help write specs for testing</em>
+
+<br>
 
 <h5>Features</h5>
 
@@ -16,3 +19,11 @@ A simple web application to capture client requirements.
   <li>Developer and client feedback on features</li>
 </ul>
 
+<hr>
+
+<h5>Checklist</h5>
+
+
+<hr>
+<h5>Licence</h5>
+<em>MIT</em>
