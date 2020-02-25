@@ -1,3 +1,5 @@
 pip3 install virtualenv
-python3 -m venv venv
-echo "check if the directory 'venv' has been created. If yes, for some reason, the error message can be ignored"
+python3 -m virtualenv venv
+source venv/bin/activate
+pip install -r src/requirements.txt
+python src/main.py
