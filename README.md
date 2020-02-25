@@ -5,5 +5,14 @@
 <br>
 A simple web application to capture client requirements.
 
-<h3>Features</h3>
+<h5>Introduction</h5>
+<em>Capturing user stories to help write specs for testing</em>
+
+<h5>Features</h5>
+
+<ul>
+  <li>Create and edit user stories</li>
+  <li>Save user stories with relevant projects and clients</li>
+  <li>Developer and client feedback on features</li>
+</ul>
 
