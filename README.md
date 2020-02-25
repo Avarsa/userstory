@@ -1,4 +1,4 @@
--> # User Story <-
-A simple web application to capture client requirements.
+# User Story
+->A simple web application to capture client requirements.<-
 
 ## Features
